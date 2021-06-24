@@ -1,3 +1,9 @@
+//Array<Negociacao>
+//is equal to:
+//Negociacao[]
+//ReadonlyArray<Negociacao>
+//is equal to:
+//readonly Negociacao[]
 export class Negociacoes {
     constructor() {
         this.negociacoes = [];
